@@ -1,5 +1,5 @@
-# First Mandelbrot
-#### Colorful Mandelbrot generation 
+# Mandelbrot with Deep Zoom function
+#### Colorful Mandelbrot generation with Deep Zoom functions
 
 ### Description:
 This project generates a mandelbrot with various color formations using the sinewave function with the glut.h library. Another feature it contains is Deep-Zoom which allows the user to explore the mandelbrot. The dependencies are also provided, in order to give the user ease of use <br/>
