@@ -11,8 +11,4 @@ This project generates a mandelbrot with various color formations using the sine
 > run
 ```
 ### Compilation Output: <br/>
-<img src="https://github.com/ChilledFerrum/Graphics-Art/blob/88930033db0e7d3b0e36517cbfbc84d6cfe1b9f1/First%20Mandelbrot/ColorfulMandelbrot.png" width="400" height="400"/>
-
-
-### Compilation .ppm Output: <br/>
-<img src="https://github.com/ChilledFerrum/Graphics-Art/blob/88930033db0e7d3b0e36517cbfbc84d6cfe1b9f1/First%20Mandelbrot/Mandelbrot_Output.jpg" width="400" height="400"/>
+<img src="https://github.com/ChilledFerrum/Graphics-Art/blob/7bd97579d5e950156a70586b0d75c34ba14910f9/Mandelbrot%20with%20Deep%20Zoom/GOeLmDNlmq.gif"/>
